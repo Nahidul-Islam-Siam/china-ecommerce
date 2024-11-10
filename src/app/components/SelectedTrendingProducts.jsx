@@ -2,18 +2,18 @@ import React from 'react';
 
 const SelectedTrendingProducts = () => {
   const products = [
-    { name: 'Mould', img: '/images/mould.png' },
-    { name: 'Agriculture Food', img: '/images/agriculture-food.png' },
-    { name: 'Socket & Plug', img: '/images/socket-plug.png' },
-    { name: 'Fabric', img: '/images/fabric.png' },
-    { name: 'Salon Furniture', img: '/images/salon-furniture.png' },
-    { name: 'Plastic Machinery', img: '/images/plastic-machinery.png' },
-    { name: 'Elevator', img: '/images/elevator.png' },
-    { name: 'Computer', img: '/images/computer.png' },
-    { name: 'Paint & Coating', img: '/images/paint-coating.png' },
-    { name: 'Lighting Decoration', img: '/images/lighting-decoration.png' },
-    { name: 'Valve', img: '/images/valve.png' },
-    { name: 'Car Brake', img: '/images/car-brake.png' },
+    { name: 'Bearing', img: '/Bearing.jpg' },
+    { name: 'Infant Apparel', img: '/Infant-Apparel.jpg' },
+    { name: 'Auto Repair Equipment', img: '/Auto-Repair-Equipment.jpg' },
+    { name: 'Carpet & Rug', img: '/Carpet-Rug.jpg' },
+    { name: 'Water Park', img: '/Water-Park.jpg' },
+    { name: 'Beauty & Personal Care', img: '/Beauty-Personal-Care.jpg' },
+    { name: 'Sensor', img: '/Sensor.jpg' },
+    { name: 'Office Furniture', img: '/Office-Furniture.jpg' },
+    { name: 'Kitchen Furniture', img: '/Kitchen-Furniture.jpg' },
+    { name: 'Generator', img: '/Generator.jpg' },
+    { name: 'Brick Making Machine', img: '/Brick-Making-Machine.jpg' },
+    { name: 'Vending-Machine', img: '/Vending-Machine.jpg' },
   ];
 
   return (
