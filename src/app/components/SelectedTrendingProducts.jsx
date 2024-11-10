@@ -19,7 +19,7 @@ const SelectedTrendingProducts = () => {
   return (
     <div className=" shadow bg-white border-2 m-6 p-4">
       <h2 className="text-xl font-semibold mb-4">Selected Trending Products</h2>
-      <div className="grid grid-cols-4 gap-4">
+      <div className="grid grid-cols-6 gap-4">
         {products.map((product, index) => (
           <div key={index} className="flex flex-col items-center">
             <img src={product.img} alt={product.name} className="w-24 h-24 object-cover" />
