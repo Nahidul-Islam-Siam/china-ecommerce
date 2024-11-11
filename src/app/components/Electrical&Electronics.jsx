@@ -1,6 +1,6 @@
 import React from 'react';
 
-const IndustrialEquipmentComponents = () => {
+const  ElectricalElectronics = () => {
   const instruments = [
     { name: 'Reducer', img: '/Reducer.webp' },
     { name: 'Air Filter', img: '/Air-Filter.webp' },
@@ -37,4 +37,4 @@ const IndustrialEquipmentComponents = () => {
   );
 };
 
-export default IndustrialEquipmentComponents;
+export default  ElectricalElectronics;
